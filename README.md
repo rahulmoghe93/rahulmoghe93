@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I am Rahul Moghe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+I am an Aerospace Engineering PhD Candidate at The University of Texas at
+Austin. I work on estimation and control theory and on navigation for
+autonomous Lunar landing missions.
+
 
 <!--
 **rahulmoghe93/rahulmoghe93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
